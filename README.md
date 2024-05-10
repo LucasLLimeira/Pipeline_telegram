@@ -80,17 +80,17 @@ import pyarrow.parquet as pq
 ------------
 
 
-    ├── requirements.txt          <- O arquivo de requisitos para reproduzir o ambiente de análise, por exemplo, gerado com `pip congelamento > requisitos.txt
+    ├── requirements.txt                        <- O arquivo de requisitos para reproduzir o ambiente de análise.
     │
     ├── LICENSE
     │
-    ├── README.md                 <- O Readme de nível superior para desenvolvedores que usam esse projeto
+    ├── README.md                               <- Resumo do projeto como um todo.
     │
-    ├── architecture.png          <- Arquitetura do projeto de Pipeline de dados   
+    ├── architecture.png                        <- Arquitetura do projeto de Pipeline de dados.  
     │
-    ├── Query                     <- Referente as consultas SQL realizadas.
+    ├── Query                                   <- Referente as consultas SQL realizadas.
     │
-    └──notebook                  <- caderno jupyter notebook utilizado para contrução e apresentação do projeto
+    └──Project_Pipeline_Telegram_Lucas.ipynb    <- caderno jupyter notebook utilizado para contrução e apresentação do projeto.
     
 
 --------
